@@ -1,0 +1,10 @@
+#!/bin/expect
+
+set timeout 20
+
+spawn bash temp.sh
+
+expect "wringer"
+send "put\n"
+
+interact

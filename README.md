@@ -12,11 +12,11 @@ Scripts not part of exercises for the Udemy course will reside in directories no
 
 ## Contents
 
-2. Baby Steps
-3. Exit Stati
-4. Functions
-6. Globs
-7. Switch Statements
-8. Logging
-9. While Loops
-10. Debugging
+2 -> Baby Steps
+3 -> Exit Stati
+4 -> Functions
+6 -> Globs
+7 -> Switch Statements
+8 -> Logging
+9 -> While Loops
+10 -> Debugging
